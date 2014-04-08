@@ -15,7 +15,7 @@ Links
 Contributors
 ============
 
-Joe Savak - joesavak
-Jorge Williams - RackerWilliams
-Steve Martinelli - stevemart
-Brad Topol - btopol
+- Joe Savak - joesavak
+- Jorge Williams - RackerWilliams
+- Steve Martinelli - stevemart
+- Brad Topol - btopol
