@@ -16,6 +16,6 @@ Contributors
 ============
 
 - Joe Savak - joesavak
-- Jorge Williams - RackerWilliams
+- Jorge Williams - jorgeW
 - Steve Martinelli - stevemart
 - Brad Topol - btopol
